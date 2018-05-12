@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1065'
     url: http://www.gutenberg.org/2009/agents/1065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43103#-The-System-as-uncovered-by-the-San-Francisco-Graft-Prosecution
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
