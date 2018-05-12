@@ -1,0 +1,28 @@
+_repo: -The-System-as-uncovered-by-the-San-Francisco-Graft-Prosecution_43103
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43103-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hichborn, Franklin
+    birthdate: 1869
+    deathdate: 1963
+    gutenberg_agent_id: '1065'
+    url: http://www.gutenberg.org/2009/agents/1065
+description: ''
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43103'
+  lccn: '15003427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Political corruption -- California -- San Francisco'
+- !lcsh 'San Francisco (Calif.) -- Politics and government'
+title: '"The System," As Uncovered by the San Francisco Graft Prosecution'
+url: http://www.gutenberg.org/ebooks/43103
